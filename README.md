@@ -37,3 +37,14 @@ Numpy
 Calculated and plotted cumulative returns. checked if any portfolio outperform the S&P 500.
 
 ![Cumulative_retrurn](Cumulative_retrurn.png)
+
+
+## Risk Analysis
+Created a box plot for each of the returns. To determine which box has the largest spread and Which has the smallest spread.
+![Risk](Risk.png)
+
+
+Calculated the standard deviation for each portfolio. To determine which portfolios are riskier than the S&P 500.
+![std](std.png)
+
+
