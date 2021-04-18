@@ -21,5 +21,6 @@ Numpy
 
 
 2. Detected and removed Nulls:
+
 ![Dropping_null](Drop_nulls.png)
 
