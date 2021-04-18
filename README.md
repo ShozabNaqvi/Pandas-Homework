@@ -10,9 +10,16 @@ You need to create a tool (an analysis notebook) that analyzes and visualizes th
 
 ## Prerequisites
 Pandas
+
 Python
+
 Numpy
 
 ## Data Preparation
-Used Pandas to read in each of the CSV files as a DataFrame and converted the dates to a DateTimeIndex
+1. Used Pandas to read in each of the CSV files as a DataFrame and converted the dates to a DateTimeIndex
 ![conversion](Dataframe_and_Table.png)
+
+
+2. Detected and removed Nulls:
+![Dropping_null](Drop_nulls.png)
+
