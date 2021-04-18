@@ -24,3 +24,16 @@ Numpy
 
 ![Dropping_null](Drop_nulls.png)
 
+3. Identified Data types and adjusted the type as required by removing the Dollar sign:
+
+![remove_dollar](Data_fix_remove_$.png)
+
+4. Calculated daily retruns and concatenated Whale Returns, Algorithmic Returns, and the S&P 500 Returns into a single DataFrame with columns for each portfolio's returns.
+
+![data_concat](concat_data.png)
+
+## Quantitative Analysis
+
+Calculated and plotted cumulative returns. checked if any portfolio outperform the S&P 500.
+
+![Cumulative_retrurn](Cumulative_retrurn.png)
