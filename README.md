@@ -28,13 +28,13 @@ Numpy
 
 ![remove_dollar](Data_fix_remove_$.png)
 
-4. Calculated daily retruns and concatenated Whale Returns, Algorithmic Returns, and the S&P 500 Returns into a single DataFrame with columns for each portfolio's returns.
+4. Calculated daily retruns and concatenated Whale Returns, Algorithmic Returns, and the S&P_Closing_returns Returns into a single DataFrame with columns for each portfolio's returns.
 
 ![data_concat](concat_data.png)
 
 ## Quantitative Analysis
 
-Calculated and plotted cumulative returns. checked if any portfolio outperform the S&P 500.
+Calculated and plotted cumulative returns. checked if any portfolio outperform the S&P_Closing_returns.
 
 ![Cumulative_retrurn](Cumulative_retrurn.png)
 
@@ -44,7 +44,17 @@ Created a box plot for each of the returns. To determine which box has the large
 ![Risk](Risk.png)
 
 
-Calculated the standard deviation for each portfolio. To determine which portfolios are riskier than the S&P 500.
+Calculated the standard deviation for each portfolio. To determine which portfolios are riskier than the S&P_Closing_returns.
 ![std](std.png)
 
 
+## Rolling Statistics
+Plotted the rolling standard deviation of the firm's portfolios along with the rolling standard deviation of the S&P_Closing_returns. To determine if the risk increase for each of the portfolios at the same time risk increases in the S&P.
+![Rolling_statisctics](Rolling_statisctics.png)
+
+
+Constructed a correlation matrix for the algorithmic, whale, and S&P 500 returns.To determine Which returns most closely mimic the S&P_Closing_returns.
+![heat_map](heat_map.png)
+
+
+Picked Algo 2 and plotted a rolling beta between that portfolio's returns and S&P_Closing_returns. To determine if the portfolio sensitive to movements in the S&P_Closing_returns.
