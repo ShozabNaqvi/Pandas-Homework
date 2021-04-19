@@ -71,3 +71,9 @@ Picked Algo 2 and plotted a rolling beta between that portfolio's returns and S&
 Used the daily returns, calculated and visualized the Sharpe ratios using a bar plot.
 
 ![Sharp_ratios](Sharp_ratios.png)
+
+
+
+## Final Results
+
+Quantitative analysis techniques with Python and Pandas, for investors to determine which portfolio is performing the best across many areas: volatility, returns, risk, and Sharpe ratios.
