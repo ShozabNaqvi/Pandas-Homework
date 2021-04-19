@@ -76,4 +76,8 @@ Used the daily returns, calculated and visualized the Sharpe ratios using a bar 
 
 ## Final Results
 
-Quantitative analysis techniques with Python and Pandas, for investors to determine which portfolio is performing the best across many areas: volatility, returns, risk, and Sharpe ratios.
+Based on the assessment perofrmed above we deduce that, Shopify have the highest Standard devaition which mean it is one of the extremely risky investments. Not only this the heat map also suggests that it is a corelated investment when compared with other investment porfolios.
+
+However as mentioned above, when we observe the performance of Algo1 we have noticed that neither the investment is very risk based in the standard deviation nor is corelated as depicted in the Heatmap above. Further it also has the better sharp ratio than other investments.
+
+Depending on the conclusion drawn above we deduce that ALGO 1 is a better investmnet plan as compared to other sources.
