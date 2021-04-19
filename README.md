@@ -50,11 +50,24 @@ Calculated the standard deviation for each portfolio. To determine which portfol
 
 ## Rolling Statistics
 Plotted the rolling standard deviation of the firm's portfolios along with the rolling standard deviation of the S&P_Closing_returns. To determine if the risk increase for each of the portfolios at the same time risk increases in the S&P.
+
+
 ![Rolling_statisctics](Rolling_statisctics.png)
 
 
-Constructed a correlation matrix for the algorithmic, whale, and S&P 500 returns.To determine Which returns most closely mimic the S&P_Closing_returns.
+Constructed a correlation matrix for the algorithmic, whale, and S&P_Closing_returns.To determine Which returns most closely mimic the S&P_Closing_returns.
+
+
 ![heat_map](heat_map.png)
 
 
 Picked Algo 2 and plotted a rolling beta between that portfolio's returns and S&P_Closing_returns. To determine if the portfolio sensitive to movements in the S&P_Closing_returns.
+
+![beta_plot](beta_plot.png)
+
+
+## Sharp Ratios 
+
+Used the daily returns, calculated and visualized the Sharpe ratios using a bar plot.
+
+![Sharp_ratios](Sharp_ratios.png)
