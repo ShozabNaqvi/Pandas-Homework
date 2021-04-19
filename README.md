@@ -80,4 +80,4 @@ Based on the assessment perofrmed above we deduce that, Shopify have the highest
 
 However as mentioned above, when we observe the performance of Algo1 we have noticed that neither the investment is very risk based in the standard deviation nor is corelated as depicted in the Heatmap above. Further it also has the better sharp ratio than other investments.
 
-Depending on the conclusion drawn above we deduce that ALGO 1 is a better investmnet plan as compared to other sources.
+Depending on the conclusion drawn above we deduce that ALGO 1 is a better investmnet plan as compared to other sources
